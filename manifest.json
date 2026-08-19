@@ -7,7 +7,7 @@
             "id": "0"
         }
     ],
-    "main": "src/index.tsx",
+    "main": "index.js",
     "vendetta": {
         "icon": "wumpus_snowglobe_premium120"
     }
